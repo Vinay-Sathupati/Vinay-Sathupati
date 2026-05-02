@@ -145,7 +145,7 @@ const vinay = {
 
 ---
 
-### 🗺️ Amazon GeoStudio Tooling *(Internal)*
+### 🗺️ Amazon Tooling Team *(Internal)*
 > *Tampermonkey userscript for Amazon's last-mile delivery workflows*
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
