@@ -28,15 +28,15 @@
 ```ts
 const vinay = {
   role:       "Full Stack Developer & Embedded Systems Enthusiast",
-  location:   "Secunderabad, India 🇮🇳  →  Germany 🇩🇪 (MSc Applicant)",
-  currentProject: "Paws & Tails — Smart Pet Care Platform + ESP32 Smart Collar",
+  location:   "Secunderabad, India 🇮🇳  ->  Germany 🇩🇪 (MSc Applicant)",
+  currentProject: "Paws & Tails - Smart Pet Care Platform + ESP32 Smart Collar",
   learning:   ["AI/ML", "Embedded Systems", "IoT", "German 🇩🇪"],
   interests:  ["Applied AI", "Real-world IoT Systems", "Pet Tech"],
   funFact:    "My German Shepherd Shadow is the design inspiration for my entire app 🐕",
 };
 ```
 
-- 🔭 **Currently building:** [Paws & Tails](https://pawsandtailsapp.com) — a full-stack MERN pet care app + ESP32 Smart Pet Collar
+- 🔭 **Currently building:** [Paws & Tails](https://pawsandtailsapp.com) - a full-stack MERN pet care app + ESP32 Smart Pet Collar
 - 🌱 **Learning:** AI, Embedded Systems, IoT, and Rust (slowly but surely)
 - 💡 **Interested in:** Applied AI for real-world systems, smart hardware, and pet tech
 - 🎯 **Goal:** Master's in AI / Embedded Systems in Germany
@@ -118,7 +118,7 @@ const vinay = {
 
 **Key Features:**
 - 🐕 AI-powered pet assistant (Shadow) with natural conversation
-- 📋 Document storage with OCR — vaccines, lab reports, prescriptions
+- 📋 Document storage with OCR - vaccines, lab reports, prescriptions
 - 📍 Google Maps integration for vet/park locating with live GPS
 - 🔐 Dual-provider auth (Email + Google OAuth)
 - 📱 Fully responsive across 5 breakpoints (XS → XL)
@@ -126,20 +126,20 @@ const vinay = {
 
 ---
 
-### 📡 Smart Pet Collar — ESP32 IoT Device
+### 📡 Smart Pet Collar - ESP32 IoT Device
 > *Hardware project: real-time GPS tracking collar for pets*
 
 [![Repo](https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vinay-Sathupati/smart-pet-collar)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![ESP32-S3](https://img.shields.io/badge/ESP32--S3-E7352C?style=flat-square&logo=espressif&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![GPS](https://img.shields.io/badge/GPS-0082C8?style=flat-square)
-![GSM](https://img.shields.io/badge/GSM-34A853?style=flat-square)
+![4G LTE](https://img.shields.io/badge/4G_LTE-0082C8?style=flat-square)
+![GNSS](https://img.shields.io/badge/GNSS-34A853?style=flat-square)
 
 **Key Features:**
 - 📡 4G LTE Cat-1 connectivity via EC200U modem (7Semi)
 - 📍 GNSS-based real-time location tracking
 - 📶 WiFi + Bluetooth dual connectivity (ESP32-S3)
-- ⚡ ESP32-S3 — faster, more memory than classic ESP32
+- ⚡ ESP32-S3 - faster, more memory than classic ESP32
 - 🔋 Battery-optimized deep sleep cycles
 - 📲 Integrates with Paws & Tails platform via REST API
 
@@ -191,6 +191,6 @@ const vinay = {
 
 <br/><br/>
 
-*"Building technology that makes life better — for humans and their pets 🐾"*
+*"Building technology that makes life better - for humans and their pets 🐾"*
 
 </div>
