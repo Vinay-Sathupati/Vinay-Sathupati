@@ -130,7 +130,7 @@ const vinay = {
 ### 📡 Smart Pet Collar - ESP32 IoT Device
 > *Hardware project: real-time GPS tracking collar for pets*
 
-[![Repo](https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vinay-Sathupati/smart-pet-collar)
+[![Repo](https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vinay-Sathupati/pet-collar-tracker)
 ![ESP32-S3](https://img.shields.io/badge/ESP32--S3-E7352C?style=flat-square&logo=espressif&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![4G LTE](https://img.shields.io/badge/4G_LTE-0082C8?style=flat-square)
