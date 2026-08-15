@@ -157,16 +157,6 @@ const vinay = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Vinay-Sathupati&theme=dark&background=0D1117&border=F97316&stroke=F97316&ring=F97316&fire=F97316&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=F97316&sideLabels=F97316&dates=888888&type=png" alt="GitHub Streak Stats" />
-
-</div>
-
----
-
 ## 🎯 Currently Working On
 
 ```
