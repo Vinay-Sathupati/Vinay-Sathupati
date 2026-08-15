@@ -160,9 +160,8 @@ const vinay = {
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Vinay-Sathupati&theme=dark&background=0D1117&border=F97316&stroke=F97316&ring=F97316&fire=F97316&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=F97316&sideLabels=F97316&dates=888888" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Vinay-Sathupati&show_icons=true&theme=dark&bg_color=0D1117&title_color=F97316&text_color=ffffff&icon_color=F97316&border_color=F97316" alt="Vinay's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinay-Sathupati&theme=dark&background=0D1117&border=F97316&stroke=F97316&ring=F97316&fire=F97316&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=F97316&sideLabels=F97316&dates=888888" alt="Vinay's Streak Stats" />
 </div>
 
 ---
